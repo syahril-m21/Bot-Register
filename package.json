@@ -1,0 +1,24 @@
+{
+  "name": "bot-register",
+  "version": "1.0.0",
+  "description": "Ini bot hanya digunakan untuk register di discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "node .": "node run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahril2108/Bot-Register.git"
+  },
+  "author": "Syahril_Maulana",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "map": "^1.0.1",
+    "request": "^2.88.2"
+  }
+}
