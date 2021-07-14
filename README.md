@@ -31,7 +31,7 @@ Saya mau menjelaskan cara mengisi config.json.
 
 Kalau Mau Lebih Jelas Lihat Videonya Aja Oke...
 
-Commmand Ada 2 Ya Guys, Yaitu: ping & register.
+Command Ada 2 Ya Guys, Yaitu: ping & register.
 
 Nah segitu aja penjelasan saya dan mohon maaf kalo saya menjelaskannya kurang jelas.
 
@@ -39,5 +39,5 @@ Thanks You🙏
 
 🔗 Link:
 
-Youtube: https://www.youtube.com/channel/UCz30CHhoifrK6amZ5eKAIEQ/
+Youtube: https://www.youtube.com/channel/UCz30CHhoifrK6amZ5eKAIEQ/ 
 Glitch: https://glitch.com/
