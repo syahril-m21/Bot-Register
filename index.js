@@ -4,7 +4,6 @@ const { NAMA_PROJECT_GLITCH, PORT, TOKEN } = require('./config.json');
 //package glitch
 const http = require('http');
 const express = require('express');
-const request = require('request');
 const app = express();
 app.get("/", (request, response) => {
   console.log('Pinging');
