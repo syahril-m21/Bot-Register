@@ -4,12 +4,7 @@
   "description": "Ini bot hanya digunakan untuk register di discord.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "node .": "node run index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/syahril2108/Bot-Register.git"
+    "start": "node index.js"
   },
   "author": "Syahril_Maulana",
   "license": "ISC",
