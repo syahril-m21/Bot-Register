@@ -5,7 +5,7 @@ module.exports = {
     description: 'Ini Coding register',
     async execute(message, args, client) {
         if(message.channel.type == "dm") return message.channel.send("Kamu tidak bisa registrasi dari DM.");
-        if (message.channel.id != `${ID_CHANNEL}`) return message.channel.send(`Kamu bisa menggunakan command ini <#${ID_CHANNEL}>`);
+        if (message.channel.id != `${ID_CHANNEL}`) return message.channel.send(`Kamu bisa menggunakan command ini di <#${ID_CHANNEL}>`);
         if(!args.length) return message.channel.send(`${message.author} **Denied**,***Tolong tulis nama kamu.***`);
 
         const nickname = args.join(" ");
